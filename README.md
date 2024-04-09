@@ -1,2 +1,2 @@
-# mypose
-myPoseIO: A Neural Network Fused with ConvNext for Industrial Object Pose Estimation
+# PoseIP
+PoseIP: Pose Estimation of Industrial Parts Based on Global Geometric Priors
